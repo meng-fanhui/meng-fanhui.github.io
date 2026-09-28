@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://max-wayne.github.io//sitemap.xml
+Sitemap: https://meng-fanhui.github.io/sitemap.xml
