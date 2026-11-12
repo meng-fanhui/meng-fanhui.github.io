@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Complex Systems, Spreading Dynamics
+subtitle: Complex Systems, Spreading Dynamics, AI Agents
 
 profile:
   align: right
